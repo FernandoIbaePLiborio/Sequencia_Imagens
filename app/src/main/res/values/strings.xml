@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sequencia_Imagens</string>
+    <string-array name="URLs">
+
+        <item>"http://www.viaconsulting.com.br/wordpress/wp-content/uploads/2013/12/tecnologia_diversidade_thumb-460x300.jpg"</item>
+        <item>"http://www.refletirpararefletir.com.br/wp-content/uploads/2016/02/mensagens-bonitas-de-deus.jpg"</item>
+        <item>"http://kultme.com.br/kt/wp-content/uploads/2017/01/jazz1.jpg"</item>
+        <item>"http://static.audioaddict.com/1/d/3/5/1/9/1d35190f5c40ec1c23ac733b4b59b7b9.png"</item>
+        <item>"https://upload.wikimedia.org/wikipedia/commons/f/fc/Montreal-Jazz-Band.jpg"</item>
+        <item>"https://www.apassion4jazz.net/images5/ensemble.jpg"</item>
+
+    </string-array>
+</resources>
