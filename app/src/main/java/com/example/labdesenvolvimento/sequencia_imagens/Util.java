@@ -18,7 +18,9 @@ public class Util {
         inputStream.close();//alt enter com cursor antes de ";" para escolher o tipo da excessão a ser tratada.
         // throws joga pra ser tratado na activity e try trata na hora como Util não exstende Activity será usado
         // throws para ser resolvido em uma classe que extenda Activity.
+        
         return myBitmap;
 
     }
+
 }

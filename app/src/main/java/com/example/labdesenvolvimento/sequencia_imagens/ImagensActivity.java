@@ -28,14 +28,7 @@ public class ImagensActivity extends Activity {
         URLS = getResources().getStringArray(R.array.URLs);
         f = URLS.length;
 
-        DownloadImageAsync downloadImageAsync = new DownloadImageAsync();
-        URL url = null;
-        try {
-            url = new URL(URLS[c++]);
-        } catch (MalformedURLException e) {
-            e.printStackTrace();
-        }
-        downloadImageAsync.execute(url);
+        nextImage(null);
     }
 
     public void nextImage(View v){
